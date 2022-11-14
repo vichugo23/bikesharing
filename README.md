@@ -15,3 +15,11 @@ The analysis and visualizations were created using Tableau.
 
 
 - For the next visual you can see the top starting locations for the bike rentals. This is another indication that most of the rentals happen in one big general area with a few outliers but still in a group. This is good to see that way you know the bikes aren't being taken too far away where it would be an inconvenience to retrieve them for maintanence.
+
+
+
+<img width="1008" alt="Screenshot 2022-11-14 at 2 17 18 PM" src="https://user-images.githubusercontent.com/110702997/201757222-bed71055-2717-4330-8eb1-a5a358b935d7.png">
+
+- This image shows a heatmap of the trips made everday shown by the hour. By looking at the darker spots you can see there is an increase of usage around 6 am through 10 am. And again from 4pm to 8pm. Knowing this helps with knowing when would be a great time to repair or maintain any bike while not interferring with the customers.
+
+
