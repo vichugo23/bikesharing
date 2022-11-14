@@ -24,6 +24,15 @@ The analysis and visualizations were created using Tableau.
 
 <img width="1009" alt="Screenshot 2022-11-14 at 2 50 40 PM" src="https://user-images.githubusercontent.com/110702997/201762932-da47546b-2bfb-4045-87d9-9fc59709b215.png">
 
-- Here you can see the length of time that bikes are checked out for each gender. You can see the majority use of the bikes are about under 10 minutes.
+- Here you can see the length of time that bikes are checked out for each gender. You can see the majority use of the bikes are  under 10 minutes.
+
+<img width="1009" alt="Screenshot 2022-11-14 at 3 04 05 PM" src="https://user-images.githubusercontent.com/110702997/201765098-497571b5-0b9f-4933-b2c5-fcf310d6db0e.png">
+- Here are the bike trips by gender for each hour of each day of the week. You can tell there is a higher use of the bikes by males and they mainly start renting the bikes around 5pm. Females are shown to use the bikes consistently throughout the day.
+
+
+<img width="1009" alt="Screenshot 2022-11-14 at 3 09 58 PM" src="https://user-images.githubusercontent.com/110702997/201766067-b17315e4-340d-422e-8637-7141a5046382.png">
+
+- This last visualization is a heatmap that shows the number of bike trips broken down by gender for each day of the week by each usertype. As the other visuals prove to show, males make up the majority of users. Thursday and Friday are shown to be their busiest days.
+
 
 
