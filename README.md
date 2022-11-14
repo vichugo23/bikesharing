@@ -22,6 +22,9 @@ The analysis and visualizations were created using Tableau.
 
 - This image shows a heatmap of the trips made everday shown by the hour. By looking at the darker spots you can see there is an increase of usage around 6 am through 10 am. And again from 4pm to 8pm. Knowing this helps with knowing when would be a great time to repair or maintain any bike while not interferring with the customers.
 
+<img width="971" alt="Screenshot 2022-11-14 at 3 25 09 PM" src="https://user-images.githubusercontent.com/110702997/201768762-cb973699-eec0-4f7e-b860-c1aee7116c67.png">
+- This is the length of time bikes are checked out for all riders. Most of the ride times are less than 20 minutes.
+
 <img width="1009" alt="Screenshot 2022-11-14 at 2 50 40 PM" src="https://user-images.githubusercontent.com/110702997/201762932-da47546b-2bfb-4045-87d9-9fc59709b215.png">
 
 - Here you can see the length of time that bikes are checked out for each gender. You can see the majority use of the bikes are  under 10 minutes.
