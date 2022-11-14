@@ -2,7 +2,7 @@
 This is an analysis of Citi Bike data in New York for the month of August of 2019 that has been released to the public for analysis. Given this information we would like to help our friend Kate decide wether or not it would be a good idea starting the exact same bike rental business in Des Moines.
 The analysis and visualizations were created using Tableau.
 
-#Results
+# Results
 
 
 <img width="450" alt="Screenshot 2022-11-14 at 1 21 58 PM" src="https://user-images.githubusercontent.com/110702997/201749184-d0798d32-129c-4359-b2bb-bfb95fb49286.png">
@@ -38,4 +38,6 @@ The analysis and visualizations were created using Tableau.
 - This last visualization is a heatmap that shows the number of bike trips broken down by gender for each day of the week by each usertype. As the other visuals prove to show, males make up the majority of users. Thursday and Friday are shown to be their busiest days.
 
 
+# SUMMARY
 
+After taking a look at the graphs you can see the bikes are all used in the same general area. There is a spike in usage in the mornings and evenings. Majority of the users are subscribed meaning they are returning costomers. Most rides don't last longer than 10 minutes. Males tend to use the bikes more than females do. All this information is great to know in order to decide if Kate wants to go through with opening a bike sharing business in Des Moines. Now there a few suggestions I would add to help us get a deeper understanding of this bike sharing business. It would be convenient to know which of the riders are locals or tourists stopping by. Having a visual of this information would be helpful as we all know New York is a population dense area with a lot of tourists and that could play a major role to their success. Another thing that could help us know is how often do the bikes need repairng and what the cost of that would be.
